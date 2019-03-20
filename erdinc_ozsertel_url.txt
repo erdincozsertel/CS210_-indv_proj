@@ -1,0 +1,2 @@
+GitHub Repository:	https://github.com/erdincozsertel/CS210_-indv_proj
+nbviewer:			https://nbviewer.jupyter.org/github/erdincozsertel/CS210_-indv_proj/blob/master/erdinc_ozsertel_indv_proj.ipynb
